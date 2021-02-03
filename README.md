@@ -1,11 +1,6 @@
 # Design-And-Application-Of-A-Machine-Learning-System-For-A-Practical-Problem
-Assignment objectives
-This document specifies the coursework assignment to be submitted by students taking CE802.
-Aims of this assignment are: a) to learn to identify machine learning techniques appropriate for
-a particular practical problem; and b) to undertake a comparative evaluation of several machine
-learning procedures when applied to the specific problem.
 Assignment description
-1. Pilot-Study Proposal
+# 1. Pilot-Study Proposal
 Imagine that you work as Machine Learning independent consultant, providing scientific advisory
 and consulting services to companies seeking to apply data analytics to their business activities.
 A travel insurance company would like to offer a discounted premium (for the same cover requested) to customers that are less likely to make a future claim. The manager contacts you to
@@ -31,7 +26,7 @@ back it with sound arguments and/or references.
 This document should consist of approximately 500–750 words of narrative (i.e. excluding
 references, pictures, and diagrams). Please report your word count on the title page. The document
 must be submitted in PDF format with file name CE802_Pilot.pdf.
-2. Comparative Study
+# 2. Comparative Study
 Thanks to the convincing arguments in your pilot-study proposal, the company decides to collect
 the data that you suggested and to hire you to perform the proposed study. They provide you with a
 training set of historical data containing features of each customer and a label representing whether
@@ -61,7 +56,7 @@ the algorithm trained on the training data.
 As part of your submission you should submit a new version of the file CE802_P2_Test.csv in
 CSV format with the missing class replaced with the output predictions obtained using the approach
 chosen. This second task will be marked based on the prediction accuracy on the test set.
-3. Additional Comparative Study
+# 3. Additional Comparative Study
 Thanks to the good results obtained in the comparative study, the company has deployed your
 system and is obtaining good profit. Now a competitor would like to hire you to design a similar
 system for them but, unlike the first system, they would like you to predict not only if the insured
@@ -91,7 +86,7 @@ As part of your submission you should submit a new version of the file CE802_P3_
 CSV format with the missing “Value” column replaced with the output predictions obtained using
 the approach chosen. This second task will be marked based on the mean squared error on the test
 set.
-4. Report on the Investigation
+# 4. Report on the Investigation
 After conducting the studies in parts 2 and 3, you are asked to write a report containing an account
 of your investigation. There should be a brief summary of the experiments performed followed by
 one or more tables and/or graphs summarizing the performance of the different solutions. Any
